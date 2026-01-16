@@ -5,10 +5,11 @@
 All analysis was carried out using Microsoft Excel
 
 
-| ----------- | ------------ |
-
+| SKILLS INVOLVED |     |
+---------------- | ------ |
 | DATA CLEANING | DATA VISUALIZING |
 | DATA MODELLING | PIVOT CHART ANALYSIS |
+| DASHBOARD INTERPRETATION |          |
 
 
 # MY EXCEL PROJECTS
