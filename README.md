@@ -13,8 +13,8 @@ All analysis was carried out using Microsoft Excel
 
 
 # MY EXCEL PROJECTS
-## -- [WALMART SALES DATA ANALYSIS](https://github.com/Kvngphaitee/Walmart-sales-)
-## --[BANK CUSTOMER CHURN ANALYSIS](https://github.com/Kvngphaitee/Bank-churn-analysis)
-## --[EMPLOYEE ATTRITION FACTOR ANALYSIS](https://github.com/Kvngphaitee/Employee-attrition-factor-analysis)
-## --[FOODHUB ORDER ANALYSIS](https://github.com/Kvngphaitee/Foodhub-order-analysis)
-## --[SUPERSTORE SALES DATA ANALYSIS](https://github.com/Kvngphaitee/SUPERSTORE-SALES-ANALYSIS)
+## -- [Click to open WALMART SALES DATA ANALYSIS](https://github.com/Kvngphaitee/Walmart-sales-)
+## --[Click to open BANK CUSTOMER CHURN ANALYSIS](https://github.com/Kvngphaitee/Bank-churn-analysis)
+## --[Click to open EMPLOYEE ATTRITION FACTOR ANALYSIS](https://github.com/Kvngphaitee/Employee-attrition-factor-analysis)
+## --[Click to open FOODHUB ORDER ANALYSIS](https://github.com/Kvngphaitee/Foodhub-order-analysis)
+## --[Click to open SUPERSTORE SALES DATA ANALYSIS](https://github.com/Kvngphaitee/SUPERSTORE-SALES-ANALYSIS)
